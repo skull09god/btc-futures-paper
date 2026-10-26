@@ -1,6 +1,6 @@
 """
 BTCUSDT Perpetual Futures PAPER-TRADING ENGINE v3.0
-====================================================
+=====================================================
 PAPER TRADING ONLY — no live endpoints, no API keys, no real orders.
 
 Strategy preserved verbatim from v1.1:
