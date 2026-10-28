@@ -3,7 +3,6 @@ BTCUSDT Perpetual Futures PAPER-TRADING ENGINE v3.0
 =====================================================
 PAPER TRADING ONLY — no live endpoints, no API keys, no real orders.
 
-
 Strategy preserved verbatim from v1.1:
   15m EMA50 trend+slope  |  5m EMA9/EMA21 pullback+reclaim+breakout
   ATR% 0.10–1.20         |  Volume >= 0.80 × 20-bar avg
